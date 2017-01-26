@@ -6,7 +6,7 @@ This project intiated by [New Destiny Technologies](http://newdestiny.in) & spon
 #Getting Started
 ##### For need a step's 
 #########   syntax: <br>
-      `solver(yourequation).mathtype()` <br> <br>
+ `solver(yourequation).mathtype()`<br> <br> 
 eg:- <br>
    `solver().linear()` <br>
 ########   Supporting MathType function's are: <br>
