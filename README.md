@@ -11,9 +11,20 @@ eg:- <br>
    `solver().linear()` <br>
    Supporting MathType function's are: <br>
    <br>
-   #`linear()` <br>
-   #`quad()` <br>
-   #`normal()` <br>
-  
+   `linear()` <br>
+   `quad()` <br>
+   `normal()` <br>
+  <br>
+  For maxima without step's: <br> <br>
+  syntax: <br>
+  `maxima(yourequation).mathtype()` <br> <br>
+  eg:- <br>
+  `maxima().algebra()` <br> <br>
+  MathType function's: <br> <br>
+   `algebra()` <br>
+   `int()` <br>
+   `diff()`<br>
+   `lim()`<br>
+   
 
 
