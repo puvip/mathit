@@ -4,15 +4,15 @@ This project intiated by [New Destiny Technologies](http://newdestiny.in) & spon
 
 
 #Getting Started
-<i>For need a step's</i>
+For need a step's
    syntax:`solver(yourequation).mathtype()`
 eg:-
    `solver().linear()`
    Supporting MathType function's are:
-   
-   linear()
-   quad()
-   normal()
+   <br>
+   `linear()`
+   `quad()`
+   `normal()`
    ``
 
 
