@@ -5,7 +5,6 @@ This project intiated by [New Destiny Technologies](http://newdestiny.in) & spon
 
 #Getting Started
 ##### For need a step's 
- <br>
 #########   syntax: <br>
       `solver(yourequation).mathtype()` <br> <br>
 eg:- <br>
@@ -17,7 +16,7 @@ eg:- <br>
    `normal()` <br>
   <br>
 #####  For maxima without step's: <br> <br>
-  syntax: <br>
+######### syntax: <br>
   `maxima(yourequation).mathtype()` <br> <br>
   eg:- <br>
   `maxima().algebra()` <br> <br>
