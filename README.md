@@ -8,11 +8,11 @@ For need a step's
    syntax:`solver(yourequation).mathtype()`
 eg:-
    `solver().linear()`
-   Supporting MathType function's are:
+   Supporting MathType function's are: <br> <br> <br>
    <br>
-   `linear()`
-   `quad()`
-   `normal()`
+   `linear()` <br>
+   `quad()` <br>
+   `normal()` <br>
    ``
 
 
