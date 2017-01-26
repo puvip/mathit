@@ -9,8 +9,7 @@ This project intiated by [New Destiny Technologies](http://newdestiny.in) & spon
  `solver(yourequation).mathtype()`<br> <br> 
 eg:- <br>
    `solver().linear()` <br>
-########   Supporting MathType function's are: <br>
-   <br>
+######## Supporting MathType function's are: <br>
    `linear()` <br>
    `quad()` <br>
    `normal()` <br>
@@ -20,7 +19,8 @@ eg:- <br>
   `maxima(yourequation).mathtype()` <br> <br>
   eg:- <br>
   `maxima().algebra()` <br> <br>
-########  MathType function's: <br> <br>
+######## MathType function's: <br>
+
    `algebra()` <br>
    `int()` <br>
    `diff()`<br>
